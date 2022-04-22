@@ -3,7 +3,7 @@
 </head>
 <body>
 <div id='test'>
-  Test
+  Test2
 </div>
 <div>
   <button id="convert2table">convert 2 Table</button>
@@ -11,6 +11,7 @@
 <script>
   const fs = require("fs")
   const infoAsString = fs.readFileSync("info.json", {encoding: "utf-8"})
+  console.log(infoAsString)
 </script>
 </body>
 </html>
