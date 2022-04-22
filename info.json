@@ -1,0 +1,52 @@
+[
+    {
+        "Description": "",
+        "EndDateLg": null,
+        "Name": "S10 Slot 0",
+        "OptionMask": 27,
+        "RealEstate_ID": "00000000-0000-0000-0000-000000000000",
+        "StartDateLg": null,
+        "TimeLimitTitle_ID": "311c1a36-9452-49d8-9f19-e4126dddc13f",
+        "Zone_ID": "cd31c718-330d-4151-87f8-984beffd5fc8"
+    },
+    {
+        "Description": "",
+        "EndDateLg": null,
+        "Name": "S10 Slot 1",
+        "OptionMask": 43,
+        "RealEstate_ID": "00000000-0000-0000-0000-000000000000",
+        "StartDateLg": null,
+        "TimeLimitTitle_ID": "f20a5180-b299-468c-8737-13d1feff6787",
+        "Zone_ID": "cd31c718-330d-4151-87f8-984beffd5fc8"
+    },
+    {
+        "Description": "",
+        "EndDateLg": null,
+        "Name": "test",
+        "OptionMask": 10,
+        "RealEstate_ID": "6f5aa5f5-b900-4f9c-b941-a44403d3ecd1",
+        "StartDateLg": "2020-08-26T00:00:00",
+        "TimeLimitTitle_ID": "d959b6a3-c06e-471d-a45e-dc6970823c30",
+        "Zone_ID": "cb8ae8ae-25cc-4aba-ab16-5a44ea223f7f"
+    },
+    {
+        "Description": "",
+        "EndDateLg": null,
+        "Name": "Büro-Arbeitszeit (fest)",
+        "OptionMask": 2,
+        "RealEstate_ID": "51133d70-82b0-44d0-b310-83c94ee3408a",
+        "StartDateLg": null,
+        "TimeLimitTitle_ID": "3e5eb3e9-46b9-4105-860c-0bbbbf612451",
+        "Zone_ID": "93c2d7bd-4a60-490c-9662-a17502320ddf"
+    },
+    {
+        "Description": "",
+        "EndDateLg": null,
+        "Name": "Büro-Service (editierbar)",
+        "OptionMask": 10,
+        "RealEstate_ID": "51133d70-82b0-44d0-b310-83c94ee3408a",
+        "StartDateLg": null,
+        "TimeLimitTitle_ID": "a7011950-fcf3-4d07-bf5f-d0cb6b2e7915",
+        "Zone_ID": "93c2d7bd-4a60-490c-9662-a17502320ddf"
+    }
+]
